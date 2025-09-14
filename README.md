@@ -18,7 +18,7 @@ OS에 대한 개념을 Kotlin으로 실험하기 위함. <br />
 - Producer-Consumer -> 생산자-소비자 실험
 
 ### 3. File & I/O
-- File vs Memory Scan -> 디스크와 메모리 비교
+- FileVsMemory -> 디스크와 메모리 비교
 
 ## Notes
 - 시스템 환경에 따라 결과가 달라집니다.
