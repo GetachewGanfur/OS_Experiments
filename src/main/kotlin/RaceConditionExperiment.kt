@@ -5,7 +5,7 @@ import kotlinx.coroutines.sync.Mutex
 import kotlinx.coroutines.sync.withLock
 import kotlin.concurrent.thread
 
-var counter = 0
+private var counter = 0
 
 suspend fun main(): Unit {
 //    val lock = Any()
