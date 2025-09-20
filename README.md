@@ -1,6 +1,6 @@
 # OS Experiments in Kotlin
 
-OS에 대한 개념을 Kotlin으로 실험하기 위함. <br />
+OS에 대한 개념을 Kotlin으로 재현하기 위함. <br />
 메모리, 캐시, 스케줄링, 동시성, 교착상태, 생산자-소비자, 경쟁상태 등 핵심 개념을 재현
 
 ## Category
