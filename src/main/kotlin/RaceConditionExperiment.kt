@@ -1,8 +1,7 @@
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.coroutineScope
 import kotlinx.coroutines.launch
-import kotlinx.coroutines.sync.Mutex
-import kotlinx.coroutines.sync.withLock
+import mutex.ReentrantSimpleMutex
 import kotlin.concurrent.thread
 
 private var counter = 0
@@ -23,12 +22,12 @@ suspend fun main(): Unit {
 
     println("기대값: 100000, 실제값: $counter")
 
+    counter = 0
     mutex()
 }
 
 suspend fun mutex() = coroutineScope {
-    counter = 0
-    val mutex = Mutex()
+    val mutex = ReentrantSimpleMutex()
 
     val jobs = List(10) {
         launch(Dispatchers.Default) {
